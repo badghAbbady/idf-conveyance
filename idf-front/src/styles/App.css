@@ -1,0 +1,76 @@
+.img{
+    height: 30px;
+    position: absolute;
+}
+.App {
+    background-color: #0B0E11;
+    position: relative;
+    height:2000px;
+    width:100%;
+
+}
+
+
+.main {
+    background-color: #0B0E11;
+}
+.container h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.main p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    color: whitesmoke;
+    padding: 30px;
+    text-align: center;
+}
+.footer1 {
+    top:1300px;
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    bottom: 30px;
+    margin-left: 300px;
+    border-top: 20px;
+    border-color: blue;
+}
+
+.footer1 a{
+    width: 20px;
+    height:20px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+}
+
+.footer1 h1{
+    margin-bottom: 80px;
+    margin-right: 300px;
+    color: dodgerblue;
+}
+
+
+.footer2 {
+    background-color: dodgerblue;
+    height:300px;
+    width:100%;
+    position: relative;
+
+
+    top:1280px;
+    border-radius: 20px;
+}
+
+.reactIcon {
+    font-size: 30px;
+    position:relative;
+    left:75%;
+    top:70%
+
+}
+
+
+

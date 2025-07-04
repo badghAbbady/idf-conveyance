@@ -1,0 +1,35 @@
+.Map{
+    top: 120px;
+    height:2000px;
+    width:100%;
+    position: absolute;
+    background-color: #0B0E11;
+}
+.mapDiv{
+    height:500px;
+    width: 800px;
+    position:absolute;
+    margin-top: 10px;
+    margin-left: 570px;
+    background-color: white;
+
+}
+
+.routeDiv{
+    height:500px;
+    width: 450px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 80px;
+    background-color: #1E2329;
+    border-radius: 50px;
+
+}
+
+.container1{
+    height:650px;
+    width: 1400px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}

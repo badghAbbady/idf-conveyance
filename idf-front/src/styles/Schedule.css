@@ -1,0 +1,61 @@
+.Schedule {
+    background-color: #0B0E11;
+    width: 1440px;
+    height: 2000px;
+}
+
+.Container1 {
+    margin: 0 auto;
+    background-color: #1E2329;
+    position: relative;
+    top:40px;
+    height: 120px;
+    width: 85%;
+    border-radius: 20px;
+}
+
+
+
+
+#bus,#tram{
+    font-size: 30px;
+    margin :10px;
+    color: white;
+}
+
+svg {
+    margin: 20px;
+}
+
+#miniNav {
+    background-color: #1E2329;
+    border-radius: 50px;
+
+}
+
+/* styles.css ou votre fichier de styles */
+.navbar-brand.active {
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+}
+
+.realTime {
+    background-color: #0B0E11;
+    margin: 0 auto;
+    position:relative;
+    height :120px;
+    width: 85%;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1E2329;
+}
+
+.realTime p {
+    margin-left: 40%;
+    margin-top: 2%;
+    font-size: 40px;
+    color : dodgerblue;
+}
+
+

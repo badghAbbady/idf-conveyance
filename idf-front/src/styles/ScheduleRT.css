@@ -1,0 +1,93 @@
+.busSchedule1 {
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+    padding: 20px;
+    background-color: #272727; /* Dark gray background */
+    border-radius: 10px;
+}
+
+.container21 {
+    margin-bottom: 20px;
+}
+
+.container21 h2 {
+    color: black;
+    font-size: 24px;
+
+    margin-left: 20px;
+}
+
+.lignesSelect {
+    appearance: none;
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.lignesSelect option {
+    background-color: #333;
+    color: white;
+}
+
+.lignesSelect:hover {
+    background-color: #555;
+}
+
+
+
+
+.stationsHeader1 {
+    background-color: #0B0E11;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.stationsHeader1 h1 {
+    color: rgb(128, 128, 128);
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.stations1 {
+    background-color: #0B0E11;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.stations1 td {
+    color: white;
+    font-size: 16px;
+    padding: 10px 0;
+}
+
+.stations11 td div {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.bigLigne {
+    width: 100%;
+    height: 1px;
+    background-color: #333;
+    margin: 20px 0;
+}
+
+.realTime1 {
+    width: 40%;
+    height: 200%;
+    margin-left: 60%;
+    margin-bottom: 2%;
+    background-color: #0B0E11;
+    text-align: center;
+}
+
+.realTime1 p{
+    font-size: x-large;
+    color: white;
+}

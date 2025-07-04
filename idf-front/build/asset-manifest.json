@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79573e09.css",
+    "main.js": "/static/js/main.9fd03221.js",
+    "static/media/pexels-elena-saharova-5098043.jpg": "/static/media/pexels-elena-saharova-5098043.981600d5a445b764edcf.jpg",
+    "static/media/Capture_d_écran_2023-11-22_à_15.04.44-removebg-preview.png": "/static/media/Capture_d_écran_2023-11-22_à_15.04.44-removebg-preview.a1d426547a583ee820e8.png",
+    "static/media/img_5.png": "/static/media/img_5.61d2a3bc13710c7697dc.png",
+    "index.html": "/index.html",
+    "main.79573e09.css.map": "/static/css/main.79573e09.css.map",
+    "main.9fd03221.js.map": "/static/js/main.9fd03221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79573e09.css",
+    "static/js/main.9fd03221.js"
+  ]
+}

@@ -1,0 +1,9 @@
+.NotFound {
+    text-align: center;
+}
+
+.NotFound-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+

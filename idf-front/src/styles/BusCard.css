@@ -1,0 +1,218 @@
+.busCard {
+    height: 1000px;
+    width: 1440px;
+    background-color: #0B0E11;
+    position: relative;
+    display: flex;
+
+}
+
+.myMapDiv {
+    height: 800px;
+    width: 56%;
+    position: relative;
+    left: 8%;
+}
+
+.routeDiv1 {
+    margin-top: 0;
+    background-color: #0B0E11;
+    position: relative;
+    height: 800px;
+    width: 30%;
+    margin-left: 5%;
+    border-style: solid;
+    border-radius: 50px;
+}
+
+#departureStation {
+    width: 70%;
+    margin: 0 auto;
+    top: 20px;
+}
+
+#arrivalStation {
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+
+.containeer1 {
+    position: relative;
+    top:30px;
+    border-style: solid;
+    margin-right: 15px;
+    margin-left: 15px;
+    border-radius: 50px;
+}
+
+.ligne-pointillee {
+    position: relative;
+    top:50px;
+    width: 90%; /* Largeur de la ligne */
+    height: 1px; /* Épaisseur de la ligne */
+    border-top: 2px dotted dodgerblue; /* Bordure en pointillés noirs */
+    margin:0 auto;
+}
+
+
+.deco {
+    display:flex;
+}
+
+.arrowButton {
+    position: relative;
+    background-color:#1E2329;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    width:10%;
+    height:10%;
+    border-radius: 100rem;
+    top: 25px;
+    left: 10%;
+}
+.arrowButton:hover{
+    background-color: white;
+}
+/*Crée une ligne blue de 2 pixels suivie de 2 pixels transparents*/
+.div-avec-ligne {
+    position: relative;
+    width: 1px;
+    height: 80px;
+    left: 50%;
+    top: 10px;
+    background-image: repeating-linear-gradient(to bottom, dodgerblue, dodgerblue 2px, transparent 2px, transparent 4px);
+}
+.arrowIcon {
+    margin: 0;
+    position: relative;
+    color: dodgerblue;
+    height: 90%;
+    width: 90%;
+}
+
+.containeer2 {
+    position: relative;
+    height: 40%;
+    width: 90%;
+    margin: 0 auto;
+    top: 70px;
+    border-style: solid;
+    border-radius: 50px;
+}
+
+.ligneInformations{
+    width: 90%;
+    height: 90%;
+    margin: 5%;
+    border-radius: 20px;
+    background-color:#1E2329;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    overflow: auto;
+
+}
+
+.ligneAndDuration{
+    height: 10%;
+}
+
+.ligneAndDuration p{
+    font-size: 160%;
+    color: dodgerblue;
+    margin-top: 1%;
+    margin-left: 10%;
+    display: inline-block;
+}
+
+#depart{
+    margin: 0;
+    font-size: 10px;
+}
+
+.timeAndPrice{
+    height: 10%;
+    border-radius: 20px;
+}
+
+.timeAndPrice p {
+    font-size: 170%;
+    color: dodgerblue;
+    margin-left: 8%;
+    display: inline-block;
+    font-family: "Kohinoor Devanagari";
+}
+
+
+.passageInformations {
+    height: 100%;
+    width: 100%;
+}
+.ligne-pointillee2 {
+    top: 2%;
+    position: relative;
+    width: 100%; /* Largeur de la ligne */
+    height: 1px; /* Épaisseur de la ligne */
+    border-top: 2px dotted white; /* Bordure en pointillés noirs */
+    margin:0 auto;
+}
+
+
+.vertical-line {
+    width: 2%;
+    margin-left:10%;
+    height: 120px; /* Hauteur de la ligne */
+    background-color: #1E2329; /* Couleur de la ligne */
+    border-left: 4px dotted white; /* Style de bordure pointillée */
+}
+
+
+
+
+.sectionTable {
+    display: flex;
+    height: 90%;
+    width: 90%;
+    margin-left: 10%;
+}
+
+.passageTable {
+    padding-left: 10%;
+    height : 90px;
+    width:90%;
+    display: grid;
+    grid-template-rows: 25% 25% 25% 25%;
+
+
+}
+.passageTable div {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.passageTable section {
+    width: 50%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.sectionStations {
+    height: 10%;
+    width: 80%;
+    margin-top: 2%;
+}
+
+
+
+
+
+
+
+

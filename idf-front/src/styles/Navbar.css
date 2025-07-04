@@ -1,0 +1,62 @@
+li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 15px;
+}
+
+.navbarH{
+    background-color: #0B0E11;
+    height: 120px;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.navbarH.fixed {
+        position: fixed;
+        top: 0;
+        left: 0;
+}
+li a {
+    text-decoration: none; /* Supprime le soulignement par défaut pour les liens à l'intérieur des éléments li */
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: white;
+}
+
+.logo {
+    display: inline-block;
+}
+
+
+.dropdown-menu li{
+    margin :0;
+    font-size: 17px;
+    color: white;
+}
+
+.dropdown-menu li a{
+    color: white;
+}
+
+#dropdown-menu{
+    background: #1E2329;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
